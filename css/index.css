@@ -427,7 +427,7 @@ img {
     }
 
     .deals a {
-        width: 20%;
+        width: 90%;
         height: 150px;
     }
 
@@ -439,7 +439,7 @@ img {
 
 }
 
-@media(max-width: 710px) {
+@media(max-width: 800px) {
     .text {
         font-size: 20px;
         text-align: left;
@@ -473,7 +473,7 @@ img {
     }
 
     #h1 {
-        font-size: 25px;
+        font-size: 28px;
     }
 
     .feature {
@@ -519,7 +519,7 @@ img {
 
     .deals {
         flex-direction: column;
-        width: 50%;
+        width: 80%;
     }
 
     .deals a {
